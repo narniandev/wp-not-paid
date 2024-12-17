@@ -1,0 +1,17 @@
+{
+    "licencias": [
+      {
+        "dominio": "ejemplo1.com",
+        "fecha_pago": "2024-07-01"
+      },
+      {
+        "dominio": "ejemplo2.com",
+        "fecha_pago": "2024-08-15"
+      },
+      {
+        "dominio": "ejemplo3.com",
+        "fecha_pago": "2024-09-30"
+      }
+    ]
+  }
+  
